@@ -5,7 +5,8 @@
 // @downloadURL  https://raw.githubusercontent.com/rubmle/autoVideoLikes/master/autoVideoLikes.user.js
 // @namespace    https://github.com/rubmle/
 // @version      1.0
-// @author       rubmle
+// @author       Rubmle
+// @copyright    2023, Rubmle (https://github.com/rubmle)
 // @match        *://*.bilibili.com/video/av*
 // @match        *://*.bilibili.com/video/BV*
 // @match        *://*.bilibili.com/read/cv*
@@ -22,7 +23,6 @@
 // @connect      localhost
 // @connect      *
 // @license      GPL License
-// @copyright    2020-2023, Rubmle (https://github.com/rubmle)
 // @feedback     https://github.com/rubmle/audoVideoLikes
 // @note         23-05-10 1.0 发布
 // @create       2020-06-9
