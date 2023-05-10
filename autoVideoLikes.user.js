@@ -23,7 +23,7 @@
 // @connect         *
 // @license      GNU General Public License v3.0
 // @copyright    2022-2023, Rubmle (https://github.com/rubmle)
-// @feedback-url https://github.com/rubmle/audoVideoLikes
+// @feedback     https://github.com/rubmle/audoVideoLikes
 // @note         23-05-10 1.0 初版发布
 // @create       2023-05-10
 // ==/UserScript==
