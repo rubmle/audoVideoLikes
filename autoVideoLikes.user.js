@@ -21,7 +21,7 @@
 // @connect         translate.google.com
 // @connect         localhost
 // @connect         *
-// @license      GNU General Public License v3.0
+// @license      GPL License
 // @copyright    2022-2023, Rubmle (https://github.com/rubmle)
 // @feedback     https://github.com/rubmle/audoVideoLikes
 // @note         23-05-10 1.0 初版发布
