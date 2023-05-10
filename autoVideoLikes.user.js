@@ -1,8 +1,6 @@
 // ==UserScript==
 // @name         👍自动点赞
-// @name:en      Video sites automatically like
 // @description  检测视频网站页面自动点赞，解放双手
-// @description:en  Detect video website pages and automatically like them, freeing your hands
 // @updateURL    https://raw.githubusercontent.com/rubmle/autoVideoLikes/master/autoVideoLikes.user.js
 // @downloadURL  https://raw.githubusercontent.com/rubmle/autoVideoLikes/master/autoVideoLikes.user.js
 // @namespace    https://github.com/rubmle/
