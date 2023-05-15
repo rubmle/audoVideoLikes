@@ -8,7 +8,7 @@
 2. 点击 [这里](https://raw.githubusercontent.com/rubmle/autoVideoLikes/master/autoVideoLikes.user.js) 在Tampermonkey中安装脚本 
 3. 完成！现在当您浏览支持的网站时，脚本会自动为您点赞。 
  
-## 目前当前支持的网站 
+## 目前当前支持的网站页面 
  
 - Bilibili视频 ( www.bilibili.com/video/* ) 
 - Bilibili专栏 ( www.bilibili.com/read/* ) 
