@@ -12,3 +12,7 @@
  
 - Bilibili视频 ( www.bilibili.com/video/* ) 
 - Bilibili专栏 ( www.bilibili.com/read/* ) 
+
+## TODO
+- 适配点击推荐视频后页内跳转点赞（随缘更新🕊️）
+ 
