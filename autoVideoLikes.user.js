@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         👍自动点赞
+// @name         👍视频网站自动点赞
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
-// @description  视频自动点赞
+// @version      1.0.2
+// @description  视频网站自动点赞，在浏览bilibili视频页面和专栏页面时自动帮您点赞
 // @author       Rubmle
 // @match        *://*.bilibili.com/video/av*
 // @match        *://*.bilibili.com/video/BV*
